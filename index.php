@@ -508,6 +508,10 @@
         </div>
 
         <div class="swiper-pagination"></div>
+
+        <div class="col-lg-12 text-center mt-3">
+                <a href="#" class="btn btn-small btn-outline-dark rounded-0 fw-bold shadow-none">Know More >>></a>
+        </div>
   </div>
 
     <!-- Reach Us -->
@@ -523,7 +527,7 @@
                     <h5>Call us</h5>
                     <a href="tel: +959123456789" class="d-inline-block mb-2 text-decoration-none text-dark">
                         <i class="bi bi-telephone-fill"></i>+959-123456789
-                    </a>
+                    </a> <br>
                     <a href="tel: +959987654321" class="d-inline-block mb-2 text-decoration-none text-dark">
                         <i class="bi bi-telephone-fill"></i>+959-987654321
                     </a>
@@ -554,8 +558,37 @@
         </div>
     </div>
 
-<br><br><br>
-<br><br><br>
+    <!-- Footer -->
+     <div class="container-fluid bg-white mt-5">
+        <div class="row">
+            <div class="col-lg-4 p4">
+                <h3 class="h-font fw-bold fs-3">Mingalar Hotel</h3>
+                <p>Where comfort meets elegance — your perfect stay begins here.</p>
+            </div>
+            <div class="col-lg-4 p-4">
+                <h5 class="mb-3">Links</h5>
+                <a href="#" class="d-inline-block mb-2 text-decoration-none text-dark">Home</a><br>
+                <a href="#" class="d-inline-block mb-2 text-decoration-none text-dark">Rooms</a><br>
+                <a href="#" class="d-inline-block mb-2 text-decoration-none text-dark">Failities</a><br>
+                <a href="#" class="d-inline-block mb-2 text-decoration-none text-dark">Contact us</a><br>
+                <a href="#" class="d-inline-block mb-2 text-decoration-none text-dark">About us</a><br>
+            </div>
+            <div class="col-lg-4 p-4">
+                <h5 class="mb-3">Follow us</h5>
+                <a href="#" class="d-inline-block text-dark text-decoration-none mb-2">
+                    <i class="bi bi-facebook me-1"></i> Facebook
+                </a> <br>
+                <a href="#" class="d-inline-block text-dark text-decoration-none mb-2">
+                    <i class="bi bi-twitter-x me-1"></i> X
+                </a> <br>
+                <a href="#" class="d-inline-block text-dark text-decoration-none mb-2">
+                    <i class="bi bi-instagram me-1"></i> Instagram
+                </a>
+            </div>
+        </div>
+     </div>
+
+     <h6 class="text-center bg-dark text-white p-3 m-0">Copyright &copy; Mingalar Hotel 2025</h6>
 
      <!-- Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
