@@ -27,3 +27,5 @@
         </div>
     </div>
 </div>
+
+<h6 class="text-center bg-dark text-white p-3 m-0">Copyright &copy; Mingalar Hotel 2025</h6>

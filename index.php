@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mingalar Hotel</title>
+    <title>Mingalar Hotel - Home</title>
 
     <?php require('./inc/links.php') ?>
 
@@ -415,11 +415,6 @@
     </div>
 
     <?php require('./inc/footer.php') ?>
-
-    <h6 class="text-center bg-dark text-white p-3 m-0">Copyright &copy; Mingalar Hotel 2025</h6>
-
-    <!-- Bootstrap JS -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
 
     <!-- Swiper.js JS -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
