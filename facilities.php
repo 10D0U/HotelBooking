@@ -26,7 +26,7 @@
     <?php require('./inc/header.php'); ?>
 
     <div class="my-5 px-4">
-        <div class="fw-bold h-font text-center">OUR FACILITIES</div>
+        <div class="fw-bold h-font fs-3 text-center">OUR FACILITIES</div>
         <div class="h-line bg-dark"></div>
         <p class="text-center mt-3">
             We offer a range of top-notch facilities designed to make your stay as comfortable and enjoyable as possible. Enjoy spacious and stylish rooms, indulge in delicious meals at our on-site restaurant, and unwind by the outdoor swimming pool. Stay connected with free high-speed Wi-Fi, relax in our spa and wellness center, and keep up with your fitness routine in our fully equipped gym. We also provide secure, complimentary on-site parking for your convenience.
