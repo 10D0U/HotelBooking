@@ -144,61 +144,13 @@
                             </span>
                         </div>
 
-                        <div class="rating mb-4">
-                            <h6 class="mb-1">Rating</h6>
-                            <span class="badge rounded-pill bg-light">
-                                <i class="bi bi-star-fill text-warning"></i>
-                                <i class="bi bi-star-fill text-warning"></i>
-                                <i class="bi bi-star-fill text-warning"></i>
-                                <i class="bi bi-star-fill text-warning"></i>
-                            </span>
-                        </div>
-
-                        <div class="d-flex justify-content-evenly mb-2">
-                            <a href="#" class="btn btn-sm text-white custom-bg shadow-none me-2">Book Now</a>
-                            <a href="#" class="btn btn-sm btn-outline-dark shadow-none">More Detils >>></a>
-                        </div>
-                    </div>
-
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 my-3">
-                <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
-                    <img class="card-img-top" src="./images/rooms/1.jpg">
-
-                    <div class="card-body">
-                        <h5>Standard Room</h5>
-                        <p class="card-text">100,000MMK per night</p>
-                        <div class="features mb-4">
-                            <h6 class="mb-1">Features</h6>
+                        <div class="guests mb-4">
+                            <h6 class="mb-1">Guests</h6>
                             <span class="badge rounded-pill bg-light text-dark text-wrap">
-                                2 Rooms
+                                5 Adults
                             </span>
                             <span class="badge rounded-pill bg-light text-dark text-wrap">
-                                1 Bathroom
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap">
-                                1 Balcony
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap">
-                                3 Sofa
-                            </span>
-                        </div>
-
-                        <div class="facilities mb-4">
-                            <h6 class="mb-1">Facilities</h6>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap">
-                                Wi-Fi
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap">
-                                Television
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap">
-                                AC
-                            </span>
-                            <span class="badge rounded-pill bg-light text-dark text-wrap">
-                                Heating
+                                4 Children
                             </span>
                         </div>
 
@@ -257,6 +209,84 @@
                             </span>
                             <span class="badge rounded-pill bg-light text-dark text-wrap">
                                 Heating
+                            </span>
+                        </div>
+
+                        <div class="guests mb-4">
+                            <h6 class="mb-1">Guests</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                5 Adults
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                4 Children
+                            </span>
+                        </div>
+
+                        <div class="rating mb-4">
+                            <h6 class="mb-1">Rating</h6>
+                            <span class="badge rounded-pill bg-light">
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                                <i class="bi bi-star-fill text-warning"></i>
+                            </span>
+                        </div>
+
+                        <div class="d-flex justify-content-evenly mb-2">
+                            <a href="#" class="btn btn-sm text-white custom-bg shadow-none me-2">Book Now</a>
+                            <a href="#" class="btn btn-sm btn-outline-dark shadow-none">More Detils >>></a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 my-3">
+                <div class="card border-0 shadow" style="max-width: 350px; margin: auto;">
+                    <img class="card-img-top" src="./images/rooms/1.jpg">
+
+                    <div class="card-body">
+                        <h5>Standard Room</h5>
+                        <p class="card-text">100,000MMK per night</p>
+                        <div class="features mb-4">
+                            <h6 class="mb-1">Features</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                2 Rooms
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Bathroom
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                1 Balcony
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                3 Sofa
+                            </span>
+                        </div>
+
+                        <div class="facilities mb-4">
+                            <h6 class="mb-1">Facilities</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Wi-Fi
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Television
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                AC
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                Heating
+                            </span>
+                        </div>
+
+                        <div class="guests mb-4">
+                            <h6 class="mb-1">Guests</h6>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                5 Adults
+                            </span>
+                            <span class="badge rounded-pill bg-light text-dark text-wrap">
+                                4 Children
                             </span>
                         </div>
 
