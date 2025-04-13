@@ -408,6 +408,7 @@
             <div class="col-lg-8 col-md-8 p-4 mb-lg-0 mb-3 bg-white rounded">
                 <iframe class="w-100 rounded" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3819.0029002261285!2d96.17821567607908!3d16.826212218727044!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30c193978d4e0949%3A0x7841537a0c3361f3!2sMingalar%20Hotel!5e0!3m2!1sen!2smm!4v1744296880471!5m2!1sen!2smm" height="320px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
             </div>
+
             <div class="col-lg-4 col-md-4">
                 <div class="bg-white p-4 rounded mb-4">
                     <h5>Call us</h5>
@@ -417,7 +418,6 @@
                     <a href="tel: +959987654321" class="d-inline-block mb-2 text-decoration-none text-dark">
                         <i class="bi bi-telephone-fill"></i>+959-987654321
                     </a>
-
                 </div>
 
                 <div class="bg-white p-4 rounded mb-4">

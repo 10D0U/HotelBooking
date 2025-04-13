@@ -17,7 +17,7 @@
                     <a class="nav-link me-2" href="facilities.php">Facilities</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link me-2" href="#">Contact us</a>
+                    <a class="nav-link me-2" href="contact.php">Contact us</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link me-2" href="aboutus.php">About us</a>
@@ -90,7 +90,7 @@
                             </div>
                             <div class="col-md-6 p-0 mb-3">
                                 <label class="form-label">Email</label>
-                                <input type="text" class="form-control shadow-none">
+                                <input type="email" class="form-control shadow-none">
                             </div>
                             <div class="col-md-6 ps-0 mb-3">
                                 <label class="form-label">Phone Number</label>
